@@ -1,6 +1,6 @@
 {
     "name": "vanilla-js-menu-scrollspy",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Vanilla JS Menu Scrollspy is a script that tracks website scrolling and automatically marks and unmarks menu links of website sections according to the current scrolling position.",
     "keywords": [
         "scrollspy",
